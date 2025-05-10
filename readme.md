@@ -30,10 +30,6 @@ This project is designed to create a Retrieval-Augmented Generation (RAG) system
 7. **Memory (Optional)**:  
    - Langchain memory is used to maintain conversational context, enabling multi-turn dialogue.
 
-## What we expect?
-
-We expect you to explore, understand the components and functionality, and demonstrate your ability to work with the provided tools and deliver a solution that meets the requirements.  
-**Bonus points:** If you use Langchain (or similar tools to add memory to the system) to make the chatbot conversational.
 
 ## Prerequisites
 
